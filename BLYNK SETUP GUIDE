@@ -1,0 +1,10 @@
+#BLynk Dashboard Setup:
+Widget	Virtual Pin	Function
+Gauge	V0	Entry Count
+Gauge	V1	Exit Count
+Gauge	V2	Occupancy
+Label	V3	IR Status
+Gauge	V4	Distance (cm)
+Switch	V5	Notifications Toggle
+Slider	V6	Capacity Limit
+Label	V7	Alert Status
