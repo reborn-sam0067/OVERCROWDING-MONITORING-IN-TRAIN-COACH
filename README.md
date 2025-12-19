@@ -13,18 +13,31 @@ Hardware:
 
 Smart Features:
 ✅ Direction detection (ENTRY vs EXIT)
+
 ✅ 600ms observation period
+
 ✅ Debounce protection
+
 ✅ Accurate occupancy tracking
+
+
 Blynk IoT Integration:
-✅ 8 Virtual Pins (V0-V7)
 ✅ Real-time dashboard sync
+
 ✅ Toggle notifications ON/OFF
+
 ✅ Adjustable capacity limit
+
 ✅ Push notifications on overcrowding
+
 ✅ WiFi auto-reconnect
+
+
 Monitoring:
 ✅ Serial monitor (115200 baud)
+
 ✅ Live data display
+
 ✅ Timestamp logging
-✅ Blynk sync every 2 seconds
+
+✅ Blynk sync every 1 seconds
