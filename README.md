@@ -3,8 +3,11 @@ Bi-directional passenger counting system with conditional alerting. Detects trai
 
 Hardware:
 ✅ IR Sensor (GPIO34) - Motion detection
+
 ✅ HC-SR04 Ultrasonic (GPIO5, GPIO18) - Distance measurement
+
 ✅ Voltage divider circuit for safety
+
 ✅ ESP32 DevKit V1 optimized
 
 
