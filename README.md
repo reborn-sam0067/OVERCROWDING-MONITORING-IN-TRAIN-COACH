@@ -6,6 +6,8 @@ Hardware:
 ✅ HC-SR04 Ultrasonic (GPIO5, GPIO18) - Distance measurement
 ✅ Voltage divider circuit for safety
 ✅ ESP32 DevKit V1 optimized
+
+
 Smart Features:
 ✅ Direction detection (ENTRY vs EXIT)
 ✅ 600ms observation period
